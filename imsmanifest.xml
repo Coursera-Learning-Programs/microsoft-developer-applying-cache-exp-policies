@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5kpcd79fcIA" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Applying Cache Expiration Policies in .NET</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Applying_Cache_Expiration_Policies_in_.NET_ORG">
+    <organization identifier="Applying_Cache_Expiration_Policies_in_.NET_ORG">
+      <title>Applying Cache Expiration Policies in .NET</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__5kpcd79fcIA_RES">
+        <title>Applying Cache Expiration Policies in .NET</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5kpcd79fcIA_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="mobile/6Jy0wnuNRxY.png" />
+      <file href="mobile/67YPSrxBsOO.png" />
+      <file href="mobile/6RIAh2XGW3E.png" />
+      <file href="mobile/6nM76o7WcI9.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aOfkpodyEm.js" />
+      <file href="html5/data/js/5hod15c7NJZ.js" />
+      <file href="html5/data/js/5nyHw4a8mYb.js" />
+      <file href="html5/data/js/5up436IN7Ys.js" />
+      <file href="html5/data/js/5voYkUQ8mdt.js" />
+      <file href="html5/data/js/5WcyIlQ1SqR.js" />
+      <file href="html5/data/js/5zkSu0TJcmX.js" />
+      <file href="html5/data/js/61o6LUP1Cub.js" />
+      <file href="html5/data/js/6935zuBUxz6.js" />
+      <file href="html5/data/js/6A64SzLfzBM.js" />
+      <file href="html5/data/js/6AWFdeF02P7.js" />
+      <file href="html5/data/js/6hrTk23byvD.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6liDMn9BzYK.js" />
+      <file href="html5/data/js/6pUuPBJKsrJ.js" />
+      <file href="html5/data/js/6SmdO1agaaT.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/6ULoGTqfVKH.js" />
+      <file href="html5/data/js/6WolgXzqx1V.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
